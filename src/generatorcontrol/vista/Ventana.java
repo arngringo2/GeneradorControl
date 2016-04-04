@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package vista;
+package generatorcontrol.vista;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -12,10 +12,10 @@ import java.util.Vector;
 import java.util.logging.Level;
 import java.util.logging.Logger;
 import javax.swing.table.DefaultTableModel;
-import modelo.Control;
-import modelo.HorarioClase;
-import modelo.Materia;
-import negocio.ControlBO;
+import generatorcontrol.modelo.Control;
+import generatorcontrol.modelo.HorarioClase;
+import generatorcontrol.modelo.Materia;
+import generator.negocio.ControlBO;
 
 
 /**

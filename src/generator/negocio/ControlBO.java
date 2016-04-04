@@ -2,7 +2,7 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package negocio;
+package generator.negocio;
 
 import java.text.ParseException;
 import java.text.SimpleDateFormat;
@@ -11,8 +11,8 @@ import java.util.Calendar;
 import java.util.Date;
 import java.util.logging.Level;
 import java.util.logging.Logger;
-import modelo.Control;
-import modelo.Materia;
+import generatorcontrol.modelo.Control;
+import generatorcontrol.modelo.Materia;
 
 /**
  *

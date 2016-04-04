@@ -2,12 +2,12 @@
  * To change this template, choose Tools | Templates
  * and open the template in the editor.
  */
-package generatorcontrol;
+package generatorcontrol.lanzador;
 
 import java.util.ArrayList;
 import java.util.Date;
-import modelo.Control;
-import negocio.ControlBO;
+import generatorcontrol.modelo.Control;
+import generator.negocio.ControlBO;
 
 /**
  *
